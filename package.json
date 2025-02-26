@@ -1,0 +1,17 @@
+{
+  "name": "postgre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pg": "^8.11.11",
+    "pg": "^8.13.3",
+    "typescipt": "^1.0.0"
+  }
+}
